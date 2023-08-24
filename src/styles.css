@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dark {
+  height: 100vh;
+  background-color: black;
+  color: aqua;
+}
